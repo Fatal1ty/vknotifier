@@ -10,7 +10,7 @@ vknotifier is an application for those who need to monitor online status of spec
 
 vknotifier currently works only on Windows.
 
-![](https://dl.dropbox.com/u/4105716/vknotifier.png)
+![](https://raw.github.com/Fatal1ty/trash/master/vknotifier/vknotifier.png)
 
 Getting started
 ----------
